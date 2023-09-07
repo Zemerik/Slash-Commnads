@@ -75,7 +75,7 @@ Beyond initial deployment, the script should support updating or modifying exist
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1149286348809842708/after-sorting.png" style = "width:200px;height:400px">
 
 <h2>Deploying: </h2>
-<p>In order to register slash commands, you need to deploy your project. Your project can be deployed as many times you want. Below is basic step by step instruction on how to deploy your slash commands. </p>
+<p>In order to register slash commands, you need to deploy your project. Your project can be deployed as many times you want and you will need to redeploy is countless times. Below is basic step by step instruction on how to deploy your slash commands. </p>
 
 <li>Head over to your project's terminal/console, and enter `node deploy-commands.js`. If you have followed the instructions correctly, then it should display `Started refreshing 1 application (/) commands.` and then display `Successfully reloaded 1 application (/) commands.` in your console.</li>
 <li>If anything other than that shows up in console, or there is some other error in the console, it is best to contact through the below links.</li>
